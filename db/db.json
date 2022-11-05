@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "name": "naveed",
+      "email": "naveed@kiyani.com",
+      "password": "naveed@123",
+      "id": 1
+    },
+    {
+      "name": "nasir",
+      "email": "nasir@sixlogics.com",
+      "password": "nasir@123",
+      "id": 2
+    },
+    {
+      "name": "abc",
+      "email": "abc@test.com",
+      "password": "abc@123",
+      "id": 3
+    }
+  ],
+  "resturant":[
+    {
+      "id": 1,
+      "name" : "burger king",
+      "contact" : "123456",
+      "address" : "lahore cantt"
+    }
+  ]
+}
