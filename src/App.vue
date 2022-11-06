@@ -25,7 +25,7 @@ body{
   text-align: center;
   color: #2c3e50;
 }
-.register input   {
+.register input , .addrestaurant input   {
     width: 300px;
     height: 40px;
     padding-left: 20px;
@@ -36,7 +36,7 @@ body{
     border: 1px solid skyblue;
 }
 
-.register button {
+.register button , .addrestaurant button {
     width: 320px;
     height: 40px;
     border: 1px solid skyblue;

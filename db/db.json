@@ -19,12 +19,5 @@
       "id": 3
     }
   ],
-  "resturant":[
-    {
-      "id": 1,
-      "name" : "burger king",
-      "contact" : "123456",
-      "address" : "lahore cantt"
-    }
-  ]
+  "resturant": []
 }
